@@ -67,5 +67,6 @@ namespace PartsUnlimited.Models
 
         /* A code of very smart method is here */
         /* A code of very smart second method is here */
+        /* A very bad method */
     }
 }
