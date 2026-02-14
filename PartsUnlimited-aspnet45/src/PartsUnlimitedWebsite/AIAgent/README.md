@@ -1,0 +1,1 @@
+This is a spece for new AI Agents era.
